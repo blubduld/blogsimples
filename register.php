@@ -1,0 +1,3 @@
+<?php
+
+/*(Formulário de cadastro)*/

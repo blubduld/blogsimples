@@ -1,0 +1,3 @@
+<?php
+
+/*(Sair do sistema)*/
